@@ -1,0 +1,63 @@
+{
+"links":
+[
+    {
+        "source": "Domain_0c05b4b999de3c3b6f1bbf12602e08473e6e4e1882930449410a9c3aecb97b65",
+        "target": "IP_f9b588fa3410ab89fa0e50b011c9ac8ddfa4a3125ea3df13fa4598faa5e15f8a"
+    },
+    {
+        "source": "Domain_0c05b4b999de3c3b6f1bbf12602e08473e6e4e1882930449410a9c3aecb97b65",
+        "target": "Cert_1b22e6e2c9f9d7afd041a1a0ef2178dbaaf3248c4261496a382ff46520d55e71"
+    },
+    {
+        "source": "Domain_ea600dc3deb2f1bc12fa48ff14f0f2048c392ee2e5aaec81f112abcea8d98961",
+        "target": "IP_f9b588fa3410ab89fa0e50b011c9ac8ddfa4a3125ea3df13fa4598faa5e15f8a"
+    },
+    {
+        "source": "Domain_ea600dc3deb2f1bc12fa48ff14f0f2048c392ee2e5aaec81f112abcea8d98961",
+        "target": "IP_36b2ba5b0800d154ef3add5672b7561af9535edd92d2c3323c64880498b45a05"
+    },
+    {
+        "source": "Domain_9be5aee5cc57eca3293a22003b6e9a8d20afe217956a765930c53837c13f3772",
+        "target": "IP_f9b588fa3410ab89fa0e50b011c9ac8ddfa4a3125ea3df13fa4598faa5e15f8a"
+    },
+    {
+        "source": "Domain_0c05b4b999de3c3b6f1bbf12602e08473e6e4e1882930449410a9c3aecb97b65",
+        "target": "IP_36b2ba5b0800d154ef3add5672b7561af9535edd92d2c3323c64880498b45a05"
+    },
+    {
+        "source": "Domain_0c05b4b999de3c3b6f1bbf12602e08473e6e4e1882930449410a9c3aecb97b65",
+        "target": "Domain_9be5aee5cc57eca3293a22003b6e9a8d20afe217956a765930c53837c13f3772"
+    },
+    {
+        "source": "Domain_9be5aee5cc57eca3293a22003b6e9a8d20afe217956a765930c53837c13f3772",
+        "target": "IP_36b2ba5b0800d154ef3add5672b7561af9535edd92d2c3323c64880498b45a05"
+    }
+],
+"nodes":[
+    {
+        "group": 5,
+        "id": "Domain_0c05b4b999de3c3b6f1bbf12602e08473e6e4e1882930449410a9c3aecb97b65"
+    },
+    {
+        "group": 5,
+        "id": "Domain_ea600dc3deb2f1bc12fa48ff14f0f2048c392ee2e5aaec81f112abcea8d98961"
+    },
+    {
+        "group": 2,
+        "id": "IP_f9b588fa3410ab89fa0e50b011c9ac8ddfa4a3125ea3df13fa4598faa5e15f8a"
+    },
+    {
+        "group": 0,
+        "id": "Cert_1b22e6e2c9f9d7afd041a1a0ef2178dbaaf3248c4261496a382ff46520d55e71"
+    },
+    {
+        "group": 2,
+        "id": "IP_36b2ba5b0800d154ef3add5672b7561af9535edd92d2c3323c64880498b45a05"
+    },
+    {
+        "group": 1,
+        "id": "Domain_9be5aee5cc57eca3293a22003b6e9a8d20afe217956a765930c53837c13f3772"
+    }
+]
+}

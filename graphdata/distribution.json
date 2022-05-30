@@ -1,0 +1,21 @@
+{
+    "domain": [
+      {"name": "涉黄","value": 0},
+      {"name": "涉赌","value": 1100},
+      {"name": "涉骗","value": 1200},
+      {"name": "涉枪","value": 1300},
+      {"name": "黑客","value": 1400},
+      {"name": "非法交易平台","value": 1500},
+      {"name": "非法支付平台","value": 1600},
+      {"name": "其它","value": 900}
+    ],
+    "all": [
+      {"name": "IP","value": 50},
+      {"name": "Cert","value": 10},
+      {"name": "Domain","value": 200},
+      {"name": "Whois","value": 0},
+      {"name": "IP_C","value": 4},
+      {"name": "ASN","value": 6}
+    ]
+  }
+  

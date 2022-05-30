@@ -1,0 +1,85 @@
+<head>
+    <style> body { margin: 0; } </style>
+    
+    <link rel="stylesheet" href="../src/css/page.css">
+    <script src="../src/utils.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="../src/echarts.min.js"></script>
+    <script src="//unpkg.com/three"></script>
+    <script src="//unpkg.com/three/examples/js/renderers/CSS2DRenderer.js"></script>
+    <script src="//unpkg.com/3d-force-graph"></script>
+  </head>
+  
+  <body background="../src/Picture/darkness.webp" >
+    
+    <div id="title">
+      <h1 style="text-align: center;">Visual Analysis: Network Assets Map of Underground Industry</h1>
+    </div>
+
+    <div id="options">
+      
+      <div id="options_title">
+        <h2 style="text-align: center;">Options</h1>
+      </div>
+
+      <div class="group" id="static_group">
+        <h3 style="text-align:center">Challenge 1.1</h3>
+        <select id="select-list-static" onchange="drawStatic()">
+          <option>Please select the group (default:0)</option>
+          <option value=0>Group 0</option>
+          <option value=1>Group 1</option>
+          <option value=2>Group 2</option>
+          <option value=3>Group 3</option>
+          <option value=4>Group 4</option>
+        </select>
+      </div>
+
+      <div class="group" id="optional_group">
+        <h3 style="text-align:center">Challenge 1.2</h3>
+        <select id="select-list-free" onchange="drawFree()">
+          <option>Please select the group</option>
+          <option value=0>Group 0</option>
+          <option value=1>Group 1</option>
+          <option value=2>Group 2</option>
+          <option value=3>Group 3</option>
+          <option value=4>Group 4</option>
+          <option value=5>Group 5</option>
+          <option value=6>Group 6</option>
+          <option value=7>Group 7</option>
+          <option value=8>Group 8</option>
+          <option value=9>Group 9</option>
+        </select>
+      </div>
+
+      <h3 style="text-align:center">Legend</h3>
+      <div id="legend">
+      </div>
+      
+      
+    </div>
+
+    <div id="graph"></div>
+    <div id="details">
+      <h2 style="text-align: center;">Subgraph Details</h2>
+      <div id="corenodes">
+        <h3 style="text-align:center">
+          Core Network Assets & Critical Links
+        </h3>
+        <div id="threeobjects"></div>
+        <h3 style="text-align:center">
+          Underground Industry Type Distribution
+        </h3>
+        <div id="pie">
+        </div>
+      </div>
+      
+    </div>
+  
+    <script>
+      drawPic("../graphdata/Static_data/problem_0.json","../graphdata/Static_data/core_0.json", 
+      "../graphdata/Static_data/dis_0.json");
+      drawLegend();
+      var group_color = ["#FF0000", "#1685a9", "#eaff56", "#8d4bbb", "#00e500"];
+      
+    </script>
+  </body>

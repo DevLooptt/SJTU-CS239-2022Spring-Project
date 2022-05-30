@@ -1,0 +1,103 @@
+{
+"links":
+[
+    {
+        "source": "Domain_24acfd52f9ceb424d4a2643a832638ce1673b8689fa952d9010dd44949e6b1d9",
+        "target": "IP_630ad0b4920bfdc057f7f41929ece3e807e0006d0683d760bdee44b9bcb74e4f"
+    },
+    {
+        "source": "Domain_24acfd52f9ceb424d4a2643a832638ce1673b8689fa952d9010dd44949e6b1d9",
+        "target": "Domain_1caaa336358862542335506a8cc83b706aba41022e73e6dd83415a50dc76cf74"
+    },
+    {
+        "source": "Domain_1caaa336358862542335506a8cc83b706aba41022e73e6dd83415a50dc76cf74",
+        "target": "IP_cd02e6bac3884a3ddc69c5b53f02e0bbedd70b950fb519319931bdaede1821be"
+    },
+    {
+        "source": "Domain_04b6a2ff24f497052d2d66ebc9563c83cca72d2b5c8591e8fa591439f87b749b",
+        "target": "IP_cd02e6bac3884a3ddc69c5b53f02e0bbedd70b950fb519319931bdaede1821be"
+    },
+    {
+        "source": "Domain_04b6a2ff24f497052d2d66ebc9563c83cca72d2b5c8591e8fa591439f87b749b",
+        "target": "Whois_Phone_f4a84443fb72da27731660695dd00877e8ce25b264ec418504fface62cdcbbd7"
+    },
+    {
+        "source": "Domain_24acfd52f9ceb424d4a2643a832638ce1673b8689fa952d9010dd44949e6b1d9",
+        "target": "IP_136a30fb09124d6fdade3e3ffbf46c3708f361e40ed011b7f27ade91a5a30f92"
+    },
+    {
+        "source": "IP_630ad0b4920bfdc057f7f41929ece3e807e0006d0683d760bdee44b9bcb74e4f",
+        "target": "ASN_bfe47d08b0915207ce5f3b739e2bd60484069a0f0591adf4ca6baf9f5779d27a"
+    },
+    {
+        "source": "IP_f24fc2bd5c7342e22766fa598e163fdc0980f605a33e33481f687a086ad29a54",
+        "target": "ASN_bfe47d08b0915207ce5f3b739e2bd60484069a0f0591adf4ca6baf9f5779d27a"
+    },
+    {
+        "source": "Domain_02c8dc519c92d7cf1980d06847d5b10d67df036e35769f01488692372e0a1bb6",
+        "target": "IP_f24fc2bd5c7342e22766fa598e163fdc0980f605a33e33481f687a086ad29a54"
+    },
+    {
+        "source": "Domain_02c8dc519c92d7cf1980d06847d5b10d67df036e35769f01488692372e0a1bb6",
+        "target": "Whois_Phone_f4a84443fb72da27731660695dd00877e8ce25b264ec418504fface62cdcbbd7"
+    },
+    {
+        "source": "Domain_2c5ea56cca03a68d7ac255a38a725a9b326b719508d5857797043ed3bfd338c6",
+        "target": "IP_630ad0b4920bfdc057f7f41929ece3e807e0006d0683d760bdee44b9bcb74e4f"
+    },
+    {
+        "source": "Domain_2c5ea56cca03a68d7ac255a38a725a9b326b719508d5857797043ed3bfd338c6",
+        "target": "IP_136a30fb09124d6fdade3e3ffbf46c3708f361e40ed011b7f27ade91a5a30f92"
+    },
+    {
+        "source": "IP_136a30fb09124d6fdade3e3ffbf46c3708f361e40ed011b7f27ade91a5a30f92",
+        "target": "ASN_bfe47d08b0915207ce5f3b739e2bd60484069a0f0591adf4ca6baf9f5779d27a"
+    }
+],
+"nodes":[
+    {
+        "group": 5,
+        "id": "Domain_1caaa336358862542335506a8cc83b706aba41022e73e6dd83415a50dc76cf74"
+    },
+    {
+        "group": 5,
+        "id": "IP_cd02e6bac3884a3ddc69c5b53f02e0bbedd70b950fb519319931bdaede1821be"
+    },
+    {
+        "group": 5,
+        "id": "Domain_04b6a2ff24f497052d2d66ebc9563c83cca72d2b5c8591e8fa591439f87b749b"
+    },
+    {
+        "group": 5,
+        "id": "ASN_bfe47d08b0915207ce5f3b739e2bd60484069a0f0591adf4ca6baf9f5779d27a"
+    },
+    {
+        "group": 5,
+        "id": "IP_f24fc2bd5c7342e22766fa598e163fdc0980f605a33e33481f687a086ad29a54"
+    },
+    {
+        "group": 5,
+        "id": "Domain_02c8dc519c92d7cf1980d06847d5b10d67df036e35769f01488692372e0a1bb6"
+    },
+    {
+        "group": 5,
+        "id": "Domain_2c5ea56cca03a68d7ac255a38a725a9b326b719508d5857797043ed3bfd338c6"
+    },
+    {
+        "group": 1,
+        "id": "Domain_24acfd52f9ceb424d4a2643a832638ce1673b8689fa952d9010dd44949e6b1d9"
+    },
+    {
+        "group": 2,
+        "id": "IP_630ad0b4920bfdc057f7f41929ece3e807e0006d0683d760bdee44b9bcb74e4f"
+    },
+    {
+        "group": 4,
+        "id": "Whois_Phone_f4a84443fb72da27731660695dd00877e8ce25b264ec418504fface62cdcbbd7"
+    },
+    {
+        "group": 2,
+        "id": "IP_136a30fb09124d6fdade3e3ffbf46c3708f361e40ed011b7f27ade91a5a30f92"
+    }
+]
+}

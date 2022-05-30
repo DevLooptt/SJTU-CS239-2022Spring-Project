@@ -1,0 +1,23 @@
+{
+"nodes": [
+{"name": "涉黄","value":11},
+{"name": "涉赌","value":10},
+{"name": "涉骗","value":6},
+{"name": "涉毒","value":0},
+{"name": "涉枪","value":12},
+{"name": "黑客","value":0},
+{"name": "非法交易平台","value":11},
+{"name": "非法支付平台","value":0},
+{"name": "其它","value":0}
+],
+"totalnodes":400,
+"totaldomain":50,
+"all":[
+{"name": "IP","value": 4},
+{"name": "Cert","value":2},
+{"name": "Domain","value": 383},
+{"name": "Whois","value": 9},
+{"name": "IP_C","value":1},
+{"name": "ASN","value": 1}
+]
+}

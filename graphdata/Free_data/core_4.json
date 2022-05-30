@@ -1,0 +1,39 @@
+{
+"links":
+[
+    {
+        "source": "Domain_f596f1a76e5facfccc8f7cb420ba25d039c5f54e3c074b59eb35378f4102930d",
+        "target": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063"
+    },
+    {
+        "source": "Domain_4159481e0012e4fced7d52b5a37ac3c44ca8ed88dcf542ceec5822e39acb5dc9",
+        "target": "Domain_f596f1a76e5facfccc8f7cb420ba25d039c5f54e3c074b59eb35378f4102930d"
+    },
+    {
+        "source": "Domain_4159481e0012e4fced7d52b5a37ac3c44ca8ed88dcf542ceec5822e39acb5dc9",
+        "target": "Domain_943a04d7cabb78d1a6a6d21288f9aecdbadf754471411066a71e3d0231806cd8"
+    },
+    {
+        "source": "Domain_943a04d7cabb78d1a6a6d21288f9aecdbadf754471411066a71e3d0231806cd8",
+        "target": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063"
+    }
+],
+"nodes":[
+    {
+        "group": 5,
+        "id": "Domain_f596f1a76e5facfccc8f7cb420ba25d039c5f54e3c074b59eb35378f4102930d"
+    },
+    {
+        "group": 5,
+        "id": "Domain_943a04d7cabb78d1a6a6d21288f9aecdbadf754471411066a71e3d0231806cd8"
+    },
+    {
+        "group": 0,
+        "id": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063"
+    },
+    {
+        "group": 1,
+        "id": "Domain_4159481e0012e4fced7d52b5a37ac3c44ca8ed88dcf542ceec5822e39acb5dc9"
+    }
+]
+}

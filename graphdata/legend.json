@@ -1,0 +1,22 @@
+{
+    "nodes": [
+      {"id": "Cert", "group": 0, "weight": 10, "color": "#FF0000"},
+      {"id": "Domain", "group": 1, "weight": 10, "color": "#0000FF"},
+      {"id": "IP", "group": 2, "weight": 10, "color": "#00FF00"},
+      {"id": "IP_C", "group": 3, "weight": 5, "color":"#FFFFFF"},
+      {"id": "ASN", "group": 3, "weight": 5, "color":"#FFFFFF"},
+      {"id": "Whois_Name", "group": 4, "weight": 2, "color":"#FFFF00"},
+      {"id": "Whois_Phone", "group": 4, "weight": 2, "color":"#FFFF00"},
+      {"id": "Whois_Email", "group": 4, "weight": 2, "color":"#FFFF00"}
+    ],
+    "links": [
+      {"source": "Domain", "target":"Cert"},
+      {"source": "Domain", "target":"IP"},
+      {"source": "IP", "target":"IP_C"},
+      {"source": "IP", "target":"ASN"},
+      {"source": "Domain", "target":"Whois_Name"},
+      {"source": "Domain", "target":"Whois_Phone"},
+      {"source": "Domain", "target":"Whois_Email"}
+    ]
+  }
+  

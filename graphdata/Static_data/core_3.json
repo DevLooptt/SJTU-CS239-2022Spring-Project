@@ -1,0 +1,71 @@
+{
+"links":
+[
+    {
+        "source": "Domain_b10e07f3f78070cf32030b325b9e86349e1f8b8bf35dff5d22446a3230c9887c",
+        "target": "Cert_6724539e5c0851f37dcf91b7ac85cb35fcd9f8ba4df0107332c308aa53d63bdb"
+    },
+    {
+        "source": "Domain_b10e07f3f78070cf32030b325b9e86349e1f8b8bf35dff5d22446a3230c9887c",
+        "target": "IP_4714c2a981c80adb2d80c504cad2e9a0b4cdc35d1798f759c07b9ea3aa612382"
+    },
+    {
+        "source": "IP_4714c2a981c80adb2d80c504cad2e9a0b4cdc35d1798f759c07b9ea3aa612382",
+        "target": "IP_CIDR_7d858973ded67c50dd01acf90f455e267c0c58998e57b9c923717ce939add055"
+    },
+    {
+        "source": "Domain_03f0d4c298b13d4af8400697c6f4069daf86b37435adebc0e400e2a4a3467806",
+        "target": "Cert_6724539e5c0851f37dcf91b7ac85cb35fcd9f8ba4df0107332c308aa53d63bdb"
+    },
+    {
+        "source": "Domain_03f0d4c298b13d4af8400697c6f4069daf86b37435adebc0e400e2a4a3467806",
+        "target": "Whois_Name_d93e740c6670760fce94cd3199e7e24bae82b16739c488d8191290ef7b403e0e"
+    },
+    {
+        "source": "IP_e574a6903582bc34a064ba4f006e1f59a61435d144960d6dd7985a095320eff9",
+        "target": "IP_CIDR_7d858973ded67c50dd01acf90f455e267c0c58998e57b9c923717ce939add055"
+    },
+    {
+        "source": "Domain_afde5ca452abfdecaa26d34087199f1e041c9033486fcba0c176df2cc374a82d",
+        "target": "IP_e574a6903582bc34a064ba4f006e1f59a61435d144960d6dd7985a095320eff9"
+    },
+    {
+        "source": "Domain_afde5ca452abfdecaa26d34087199f1e041c9033486fcba0c176df2cc374a82d",
+        "target": "Whois_Name_d93e740c6670760fce94cd3199e7e24bae82b16739c488d8191290ef7b403e0e"
+    }
+],
+"nodes":[
+    {
+        "group": 5,
+        "id": "Domain_b10e07f3f78070cf32030b325b9e86349e1f8b8bf35dff5d22446a3230c9887c"
+    },
+    {
+        "group": 5,
+        "id": "IP_4714c2a981c80adb2d80c504cad2e9a0b4cdc35d1798f759c07b9ea3aa612382"
+    },
+    {
+        "group": 5,
+        "id": "Domain_03f0d4c298b13d4af8400697c6f4069daf86b37435adebc0e400e2a4a3467806"
+    },
+    {
+        "group": 5,
+        "id": "IP_e574a6903582bc34a064ba4f006e1f59a61435d144960d6dd7985a095320eff9"
+    },
+    {
+        "group": 5,
+        "id": "Domain_afde5ca452abfdecaa26d34087199f1e041c9033486fcba0c176df2cc374a82d"
+    },
+    {
+        "group": 0,
+        "id": "Cert_6724539e5c0851f37dcf91b7ac85cb35fcd9f8ba4df0107332c308aa53d63bdb"
+    },
+    {
+        "group": 3,
+        "id": "IP_CIDR_7d858973ded67c50dd01acf90f455e267c0c58998e57b9c923717ce939add055"
+    },
+    {
+        "group": 4,
+        "id": "Whois_Name_d93e740c6670760fce94cd3199e7e24bae82b16739c488d8191290ef7b403e0e"
+    }
+]
+}

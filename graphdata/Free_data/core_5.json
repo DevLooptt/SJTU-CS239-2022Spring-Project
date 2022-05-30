@@ -1,0 +1,71 @@
+{
+"links":
+[
+    {
+        "source": "IP_3be73645cff7c780850d888c889ae6880ea688bc0a15334798d4296258a2982d",
+        "target": "ASN_18e8bb2ed7b0cd0b90899cbeed167ab799142758f352b0910af4140d5907807e"
+    },
+    {
+        "source": "IP_d24c7ad2721b5bf3f2d328be7d0ff989a1c6d11f31f4162a00148311d51a15f4",
+        "target": "ASN_18e8bb2ed7b0cd0b90899cbeed167ab799142758f352b0910af4140d5907807e"
+    },
+    {
+        "source": "Domain_0d2f32307e1e3d4554599bb7cc61b5232a85ff85cd7dc8d5741ed22c873f53f9",
+        "target": "IP_3be73645cff7c780850d888c889ae6880ea688bc0a15334798d4296258a2982d"
+    },
+    {
+        "source": "Domain_0d2f32307e1e3d4554599bb7cc61b5232a85ff85cd7dc8d5741ed22c873f53f9",
+        "target": "Cert_c442b87bfaa38d8dfb10ecf9618eca3a137475c3a0a07b377f8b1e408107e0ed"
+    },
+    {
+        "source": "Cert_c442b87bfaa38d8dfb10ecf9618eca3a137475c3a0a07b377f8b1e408107e0ed",
+        "target": "Cert_0335aa1581ca56f1a536c2cdf6178f3be17d1511a5fbd82debfc2f8d5a9c5f6f"
+    },
+    {
+        "source": "IP_af9e2666028bc705bd9628fe0e30c188c4e0c7e116e950c0096f8fcf84ce10cc",
+        "target": "ASN_18e8bb2ed7b0cd0b90899cbeed167ab799142758f352b0910af4140d5907807e"
+    },
+    {
+        "source": "Domain_496d3783273042a41621d53521cdebcdbcc6dd2fe59b981491ba342fc9f41c49",
+        "target": "IP_d24c7ad2721b5bf3f2d328be7d0ff989a1c6d11f31f4162a00148311d51a15f4"
+    },
+    {
+        "source": "Domain_496d3783273042a41621d53521cdebcdbcc6dd2fe59b981491ba342fc9f41c49",
+        "target": "IP_af9e2666028bc705bd9628fe0e30c188c4e0c7e116e950c0096f8fcf84ce10cc"
+    }
+],
+"nodes":[
+    {
+        "group": 5,
+        "id": "ASN_18e8bb2ed7b0cd0b90899cbeed167ab799142758f352b0910af4140d5907807e"
+    },
+    {
+        "group": 5,
+        "id": "Domain_0d2f32307e1e3d4554599bb7cc61b5232a85ff85cd7dc8d5741ed22c873f53f9"
+    },
+    {
+        "group": 5,
+        "id": "Cert_c442b87bfaa38d8dfb10ecf9618eca3a137475c3a0a07b377f8b1e408107e0ed"
+    },
+    {
+        "group": 5,
+        "id": "Domain_496d3783273042a41621d53521cdebcdbcc6dd2fe59b981491ba342fc9f41c49"
+    },
+    {
+        "group": 2,
+        "id": "IP_3be73645cff7c780850d888c889ae6880ea688bc0a15334798d4296258a2982d"
+    },
+    {
+        "group": 2,
+        "id": "IP_d24c7ad2721b5bf3f2d328be7d0ff989a1c6d11f31f4162a00148311d51a15f4"
+    },
+    {
+        "group": 0,
+        "id": "Cert_0335aa1581ca56f1a536c2cdf6178f3be17d1511a5fbd82debfc2f8d5a9c5f6f"
+    },
+    {
+        "group": 2,
+        "id": "IP_af9e2666028bc705bd9628fe0e30c188c4e0c7e116e950c0096f8fcf84ce10cc"
+    }
+]
+}

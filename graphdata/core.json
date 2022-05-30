@@ -1,0 +1,19 @@
+{
+    "nodes": [
+      {"id": "IP_8825af1b085a177c9fbe38f62c83937cb896fd4c46cc6726fd9c641e5c0fea60", "group": 2, "weight": 7},
+      {"id": "Cert_392d981eaf712a3ecb8553b3b90974d538e484bad7ccff19f6ef89d1b6456226", "group": 0, "weight": 6},
+      {"id": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063", "group": 0, "weight": 8},
+      {"id": "IP_180ec840d57b66390033e9f0145b6dc76a7213c42d0992faeaaf5719ba7273a2", "group": 2, "weight": 10},
+      {"id": "middle_IP_0", "group": 5, "weight": 1}
+    ],
+    "links": [
+      {"source": "IP_8825af1b085a177c9fbe38f62c83937cb896fd4c46cc6726fd9c641e5c0fea60", "target": "middle_IP_0", "value": 1},
+      {"source": "middle_IP_0", "target": "Cert_392d981eaf712a3ecb8553b3b90974d538e484bad7ccff19f6ef89d1b6456226", "value": 1},
+      {"source": "IP_8825af1b085a177c9fbe38f62c83937cb896fd4c46cc6726fd9c641e5c0fea60", "target": "Cert_392d981eaf712a3ecb8553b3b90974d538e484bad7ccff19f6ef89d1b6456226", "value": 3},
+      {"source": "Cert_392d981eaf712a3ecb8553b3b90974d538e484bad7ccff19f6ef89d1b6456226", "target": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063", "value": 4},
+      {"source": "IP_8825af1b085a177c9fbe38f62c83937cb896fd4c46cc6726fd9c641e5c0fea60", "target": "IP_180ec840d57b66390033e9f0145b6dc76a7213c42d0992faeaaf5719ba7273a2", "value": 2},
+      {"source": "IP_180ec840d57b66390033e9f0145b6dc76a7213c42d0992faeaaf5719ba7273a2", "target": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063", "value": 3},
+      {"source": "Cert_fe794a69eacd63b21245bf4eda826222fc6c5862bebf77aa05459cb308cfd063", "target": "IP_8825af1b085a177c9fbe38f62c83937cb896fd4c46cc6726fd9c641e5c0fea60", "value": 2}
+    ]
+  }
+  
