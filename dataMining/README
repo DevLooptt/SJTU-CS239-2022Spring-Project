@@ -1,0 +1,19 @@
+# Final Project for SJTU CS239 ChinaVis2022 Pro1
+
+## Content
+* Graph.py
+* Tojson.py
+* Analysis.py
+* Core.py
+
+## Dependencies
+
+* python 3.7
+* NetworkX 2.1
+
+
+## Usage
+
+There are many different ways to find subgraphs in Graph.py, and they are progressively improved. You can use them with initial nodes to search in main function.
+
+

@@ -11,7 +11,7 @@
 {"name": "其它","value":1}
 ],
 "totalnodes":2000,
-"totaldomain":33,
+"totaldomain":1192,
 "all":[
 {"name": "IP","value": 554},
 {"name": "Cert","value":195},

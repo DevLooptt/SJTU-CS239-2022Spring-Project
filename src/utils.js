@@ -28,7 +28,7 @@ function drawFree() {
 
 function drawPic(data_url, core_url, distribution_url) {
   // Color array
-  var group_color = ["#FF0000", "#1685a9", "#eaff56", "#8d4bbb", "#00e500"];
+  var group_color = ["#fa8c35", "#1685a9", "#eaff56", "#8d4bbb", "#00e500", "#FF0000"];
 
   $.ajax({
     url: data_url,
